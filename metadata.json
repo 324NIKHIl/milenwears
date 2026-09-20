@@ -1,0 +1,8 @@
+{
+  "name": "The Milenwears",
+  "description": "Minimalist and modern luxury sunglasses brand with precision optics, polarized clarity, handcrafted frames, and a seamless checkout experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
